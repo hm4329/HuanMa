@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/HuanMa/static/css/main.c575ee63.css",
+    "main.js": "/HuanMa/static/js/main.69a5f864.js",
+    "index.html": "/HuanMa/index.html",
+    "main.c575ee63.css.map": "/HuanMa/static/css/main.c575ee63.css.map",
+    "main.69a5f864.js.map": "/HuanMa/static/js/main.69a5f864.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c575ee63.css",
+    "static/js/main.69a5f864.js"
+  ]
+}
