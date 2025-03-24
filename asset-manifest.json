@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/HuanMa/static/css/main.f9f0ceab.css",
-    "main.js": "/HuanMa/static/js/main.c2597166.js",
+    "main.js": "/HuanMa/static/js/main.151e827f.js",
     "index.html": "/HuanMa/index.html",
     "main.f9f0ceab.css.map": "/HuanMa/static/css/main.f9f0ceab.css.map",
-    "main.c2597166.js.map": "/HuanMa/static/js/main.c2597166.js.map"
+    "main.151e827f.js.map": "/HuanMa/static/js/main.151e827f.js.map"
   },
   "entrypoints": [
     "static/css/main.f9f0ceab.css",
-    "static/js/main.c2597166.js"
+    "static/js/main.151e827f.js"
   ]
 }
